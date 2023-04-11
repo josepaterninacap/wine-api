@@ -3,5 +3,5 @@
   "version": "1.0.0",
   "description": "Wines API",
   "title": "Wines API",
-  "url" : "https://wines-api.herokuapp.com/api"
+  "url": "https://wines-api.onrender.com//api"
 }
