@@ -3,7 +3,7 @@ define({
   "version": "1.0.0",
   "description": "Wines API",
   "title": "Wines API",
-  "url": "https://wines-api.onrender.com//api",
+  "url": "https://wines-api.onrender.com/api",
   "sampleUrl": false,
   "apidoc": "0.2.0",
   "generator": {
