@@ -1,0 +1,7 @@
+{
+  "name": "wines-api",
+  "version": "1.0.0",
+  "description": "Wines API",
+  "title": "Wines API",
+  "url" : "https://wines-api.herokuapp.com/api"
+}
